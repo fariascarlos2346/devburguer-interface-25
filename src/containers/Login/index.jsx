@@ -31,8 +31,7 @@ export function Login() {
                     <InputContainer>
                         <label>Senha</label>
                         <input type="password" />
-                    </InputContainer>
-                    <Link>Esqueci minha Senha.</Link>
+                    </InputContainer>                   
                     <Button>Entrar</Button>
                 </Form>
                 <Link>Não possui conta? Clique aqui.</Link>
